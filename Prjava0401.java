@@ -31,7 +31,7 @@ public class Prjava0401 {
      * @param args Not used
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!!!!");
         System.out.println("Project Prjava0401 Version 0.2");
         try {
             InetAddress addr = InetAddress.getLocalHost();
