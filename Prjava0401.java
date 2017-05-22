@@ -45,7 +45,8 @@ public class Prjava0401 {
             System.out.println("OS Version = "+System.getProperty("os.version"));
  
             System.out.println("5 + 2 = "+ AddNum(5,2));
-	    System.out.println("6 + 7 = "+ AddNum(5,2));
+	    System.out.println("6 + 7 = "+ AddNum(6,7));
+	
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
